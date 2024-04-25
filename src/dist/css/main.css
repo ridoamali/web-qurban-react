@@ -61,6 +61,7 @@ header {
 .homepage .hitungmundur {
   text-align: center;
   font-size: 1.5rem;
+  padding-top: 35px;
 }
 .homepage .hitungmundur span {
   font-weight: bold;
@@ -106,6 +107,7 @@ header {
   }
   .homepage .hitungmundur {
     text-align: start;
+    padding-top: 0;
   }
 }
 
@@ -116,6 +118,7 @@ header {
   .homepage .hitungmundur {
     text-align: start;
     font-size: 14px;
+    padding-top: 0;
   }
 }
 
@@ -132,6 +135,7 @@ header {
   .homepage .hitungmundur {
     text-align: start;
     font-size: 10px;
+    padding-top: 0;
   }
 }
 
@@ -145,6 +149,7 @@ header {
   .homepage .hitungmundur {
     text-align: start;
     font-size: 10px;
+    padding-top: 0;
   }
 }
 
