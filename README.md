@@ -1,5 +1,7 @@
 # React + Vite
 
+Implementasi Front End Landingpage menggunakan React JS + Vite dengan tema website Qurban 2024.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
