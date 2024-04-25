@@ -25,7 +25,7 @@ const HomePage = () => {
         <Container>
           <Row className="header-box d-flex align-items-center pt-lg-5 overflow-hidden">
             {/* TES COUNTDOWN */}
-            <div className="hitungmundur pt-5 animate__animated animate__fadeInUp animate__delay-0.5s">
+            <div className="hitungmundur animate__animated animate__fadeInUp animate__delay-0.5s">
               <Countdown />
             </div>
             <Col lg="6">
