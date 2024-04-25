@@ -98,7 +98,7 @@ header {
 
 @media screen and (max-width: 992px) {
   .homepage .header-box {
-    padding-top: 8rem;
+    padding-top: 7rem;
   }
   .homepage .header-box img {
     width: 400px;
